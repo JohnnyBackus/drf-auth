@@ -9,7 +9,6 @@
 - [CodeFellows Python Lab Instructions](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/)
 - [CodeFellows README template](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/README-template.html)
 - lecture demo code used for reference
-- GitHub CoPilot chat feature used to uncover error caused by modifying model after making migtations
 
 ### Setup
 
